@@ -1,5 +1,3 @@
 # Assignment
 
-
-
-hey you all thats me devil
+This main.go file can only shows date and time only
